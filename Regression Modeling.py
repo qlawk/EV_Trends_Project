@@ -1,5 +1,4 @@
-import pandas as pd 
-import numpy as np 
+import pandas as pd
 import statsmodels.api as sm
 
 ev = pd.read_csv("C:\\Users\\17789\\LHL\\EV charging in Washington state\\data\\Cleaned_data\\ev_county_clean_final.csv")
@@ -75,7 +74,5 @@ mn = sm.OLS(y, sm.add_constant(X))
 model = mn.fit()
 print_model = model.summary()
 print(print_model)
-
-
 
 
