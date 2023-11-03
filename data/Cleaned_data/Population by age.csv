@@ -1,0 +1,364 @@
+﻿Location,County,Location - RegionId,Indicator,Indicator Name,Indicator - Reference Name,Measure,Measure Name,Measure - Units,Scale,Units,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021
+0400000US53,Washington,US_WA,S1701_C01_002,Under 18 years,AGE!!Under 18 years,KN.M2,"Total, Estimate",Number,units,Number,1548612,1556920,1561367,1567388,1577138,1589742,1607368,1617024,,1651045
+0400000US53,Washington,US_WA,S1701_C01_003,Under 5 years,AGE!!Under 18 years!!Under 5 years,KN.M2,"Total, Estimate",Number,units,Number,,,,436556,438486,440256,445292,446109,,440264
+0400000US53,Washington,US_WA,S1701_C01_004,5 to 17 years,AGE!!Under 18 years!!5 to 17 years,KN.M2,"Total, Estimate",Number,units,Number,,,,1130832,1138652,1149486,1162076,1170915,,1210781
+0400000US53,Washington,US_WA,S1701_C01_005,Related children of householder under 18 years,AGE!!Under 18 years!!Related children of householder under 18 years,KN.M2,"Total, Estimate",Number,units,Number,1538902,1547207,1551206,1557552,1567442,1579454,1597797,1608012,,1643307
+0400000US53,Washington,US_WA,S1701_C01_006,18 to 64 years,AGE!!18 to 64 years,KN.M2,"Total, Estimate",Number,units,Number,4240068,4277377,4314936,4355181,4389804,4438788,4500928,4552104,,4668568
+0400000US53,Washington,US_WA,S1701_C01_007,18 to 34 years,AGE!!18 to 64 years!!18 to 34 years,KN.M2,"Total, Estimate",Number,units,Number,,,,1602873,1618222,1641725,1678347,1704972,,1740460
+0400000US53,Washington,US_WA,S1701_C01_008,35 to 64 years,AGE!!18 to 64 years!!35 to 64 years,KN.M2,"Total, Estimate",Number,units,Number,,,,2752308,2771582,2797063,2822581,2847132,,2928108
+0400000US53,Washington,US_WA,S1701_C01_009,60 years and over,AGE!!60 years and over,KN.M2,"Total, Estimate",Number,units,Number,,,,1352209,1405673,1451401,1505709,1560152,,1641570
+0400000US53,Washington,US_WA,S1701_C01_010,65 years and over,AGE!!65 years and over,KN.M2,"Total, Estimate",Number,units,Number,817702,851875,888897,928124,972680,1008883,1053412,1097682,,1159144
+0500000US53001,Adams County,US_WA001,S1701_C01_002,Under 18 years,AGE!!Under 18 years,KN.M2,"Total, Estimate",Number,units,Number,6345,6477,6566,6656,6648,6710,6784,6848,6919,7208
+0500000US53001,Adams County,US_WA001,S1701_C01_003,Under 5 years,AGE!!Under 18 years!!Under 5 years,KN.M2,"Total, Estimate",Number,units,Number,,,,2050,2024,1955,1945,1911,1862,1867
+0500000US53001,Adams County,US_WA001,S1701_C01_004,5 to 17 years,AGE!!Under 18 years!!5 to 17 years,KN.M2,"Total, Estimate",Number,units,Number,,,,4606,4624,4755,4839,4937,5057,5341
+0500000US53001,Adams County,US_WA001,S1701_C01_005,Related children of householder under 18 years,AGE!!Under 18 years!!Related children of householder under 18 years,KN.M2,"Total, Estimate",Number,units,Number,6320,6455,6549,6646,6638,6709,6743,6803,6880,7159
+0500000US53001,Adams County,US_WA001,S1701_C01_006,18 to 64 years,AGE!!18 to 64 years,KN.M2,"Total, Estimate",Number,units,Number,10190,10276,10324,10364,10340,10386,10446,10503,10508,10786
+0500000US53001,Adams County,US_WA001,S1701_C01_007,18 to 34 years,AGE!!18 to 64 years!!18 to 34 years,KN.M2,"Total, Estimate",Number,units,Number,,,,4301,4274,4337,4370,4464,4505,4607
+0500000US53001,Adams County,US_WA001,S1701_C01_008,35 to 64 years,AGE!!18 to 64 years!!35 to 64 years,KN.M2,"Total, Estimate",Number,units,Number,,,,6063,6066,6049,6076,6039,6003,6179
+0500000US53001,Adams County,US_WA001,S1701_C01_009,60 years and over,AGE!!60 years and over,KN.M2,"Total, Estimate",Number,units,Number,,,,2572,2649,2737,2853,2920,3003,3155
+0500000US53001,Adams County,US_WA001,S1701_C01_010,65 years and over,AGE!!65 years and over,KN.M2,"Total, Estimate",Number,units,Number,1769,1767,1786,1781,1828,1906,1952,1981,2040,2145
+0500000US53003,Asotin County,US_WA003,S1701_C01_002,Under 18 years,AGE!!Under 18 years,KN.M2,"Total, Estimate",Number,units,Number,4597,4585,4542,4512,4469,4509,4525,4512,4600,4560
+0500000US53003,Asotin County,US_WA003,S1701_C01_003,Under 5 years,AGE!!Under 18 years!!Under 5 years,KN.M2,"Total, Estimate",Number,units,Number,,,,1216,1206,1120,1122,1119,1211,1223
+0500000US53003,Asotin County,US_WA003,S1701_C01_004,5 to 17 years,AGE!!Under 18 years!!5 to 17 years,KN.M2,"Total, Estimate",Number,units,Number,,,,3296,3263,3389,3403,3393,3389,3337
+0500000US53003,Asotin County,US_WA003,S1701_C01_005,Related children of householder under 18 years,AGE!!Under 18 years!!Related children of householder under 18 years,KN.M2,"Total, Estimate",Number,units,Number,4545,4547,4508,4495,4434,4471,4483,4473,4530,4514
+0500000US53003,Asotin County,US_WA003,S1701_C01_006,18 to 64 years,AGE!!18 to 64 years,KN.M2,"Total, Estimate",Number,units,Number,12619,12712,12763,12797,12793,12707,12633,12608,12636,12451
+0500000US53003,Asotin County,US_WA003,S1701_C01_007,18 to 34 years,AGE!!18 to 64 years!!18 to 34 years,KN.M2,"Total, Estimate",Number,units,Number,,,,4150,4151,4161,4045,4052,4098,3888
+0500000US53003,Asotin County,US_WA003,S1701_C01_008,35 to 64 years,AGE!!18 to 64 years!!35 to 64 years,KN.M2,"Total, Estimate",Number,units,Number,,,,8647,8642,8546,8588,8556,8538,8563
+0500000US53003,Asotin County,US_WA003,S1701_C01_009,60 years and over,AGE!!60 years and over,KN.M2,"Total, Estimate",Number,units,Number,,,,6084,6062,6269,6498,6882,7164,6952
+0500000US53003,Asotin County,US_WA003,S1701_C01_010,65 years and over,AGE!!65 years and over,KN.M2,"Total, Estimate",Number,units,Number,4061,4176,4307,4422,4528,4728,4857,5023,5170,5037
+0500000US53005,Benton County,US_WA005,S1701_C01_002,Under 18 years,AGE!!Under 18 years,KN.M2,"Total, Estimate",Number,units,Number,46438,47379,48142,49087,49891,50565,51453,52194,52578,53644
+0500000US53005,Benton County,US_WA005,S1701_C01_003,Under 5 years,AGE!!Under 18 years!!Under 5 years,KN.M2,"Total, Estimate",Number,units,Number,,,,13439,13376,13575,13758,13860,13748,13593
+0500000US53005,Benton County,US_WA005,S1701_C01_004,5 to 17 years,AGE!!Under 18 years!!5 to 17 years,KN.M2,"Total, Estimate",Number,units,Number,,,,35648,36515,36990,37695,38334,38830,40051
+0500000US53005,Benton County,US_WA005,S1701_C01_005,Related children of householder under 18 years,AGE!!Under 18 years!!Related children of householder under 18 years,KN.M2,"Total, Estimate",Number,units,Number,46137,47126,47940,48819,49671,50314,51163,51879,52424,53475
+0500000US53005,Benton County,US_WA005,S1701_C01_006,18 to 64 years,AGE!!18 to 64 years,KN.M2,"Total, Estimate",Number,units,Number,106336,108077,109384,110359,111017,112335,113732,115067,116521,118603
+0500000US53005,Benton County,US_WA005,S1701_C01_007,18 to 34 years,AGE!!18 to 64 years!!18 to 34 years,KN.M2,"Total, Estimate",Number,units,Number,,,,41083,41394,41984,42567,43080,43862,44449
+0500000US53005,Benton County,US_WA005,S1701_C01_008,35 to 64 years,AGE!!18 to 64 years!!35 to 64 years,KN.M2,"Total, Estimate",Number,units,Number,,,,69276,69623,70351,71165,71987,72659,74154
+0500000US53005,Benton County,US_WA005,S1701_C01_009,60 years and over,AGE!!60 years and over,KN.M2,"Total, Estimate",Number,units,Number,,,,34819,36269,37504,39174,40309,41846,42400
+0500000US53005,Benton County,US_WA005,S1701_C01_010,65 years and over,AGE!!65 years and over,KN.M2,"Total, Estimate",Number,units,Number,20480,21354,22447,23512,24776,25840,27159,28373,29632,30240
+0500000US53035,Kitsap County,US_WA035,S1701_C01_002,Under 18 years,AGE!!Under 18 years,KN.M2,"Total, Estimate",Number,units,Number,54835,54280,53507,53139,53145,52956,53120,53353,53484,54273
+0500000US53035,Kitsap County,US_WA035,S1701_C01_003,Under 5 years,AGE!!Under 18 years!!Under 5 years,KN.M2,"Total, Estimate",Number,units,Number,,,,14278,14468,14495,14739,14968,15067,14922
+0500000US53035,Kitsap County,US_WA035,S1701_C01_004,5 to 17 years,AGE!!Under 18 years!!5 to 17 years,KN.M2,"Total, Estimate",Number,units,Number,,,,38861,38677,38461,38381,38385,38417,39351
+0500000US53035,Kitsap County,US_WA035,S1701_C01_005,Related children of householder under 18 years,AGE!!Under 18 years!!Related children of householder under 18 years,KN.M2,"Total, Estimate",Number,units,Number,54153,53679,52971,52664,52729,52641,52797,53103,53157,53862
+0500000US53035,Kitsap County,US_WA035,S1701_C01_006,18 to 64 years,AGE!!18 to 64 years,KN.M2,"Total, Estimate",Number,units,Number,156792,156763,156523,156449,156848,157023,158449,158493,159016,161680
+0500000US53035,Kitsap County,US_WA035,S1701_C01_007,18 to 34 years,AGE!!18 to 64 years!!18 to 34 years,KN.M2,"Total, Estimate",Number,units,Number,,,,56145,57201,57634,58867,58660,59111,59557
+0500000US53035,Kitsap County,US_WA035,S1701_C01_008,35 to 64 years,AGE!!18 to 64 years!!35 to 64 years,KN.M2,"Total, Estimate",Number,units,Number,,,,100304,99647,99389,99582,99833,99905,102123
+0500000US53035,Kitsap County,US_WA035,S1701_C01_009,60 years and over,AGE!!60 years and over,KN.M2,"Total, Estimate",Number,units,Number,,,,54673,56670,58544,60977,63152,65298,67122
+0500000US53035,Kitsap County,US_WA035,S1701_C01_010,65 years and over,AGE!!65 years and over,KN.M2,"Total, Estimate",Number,units,Number,32650,34170,35939,37953,40113,41535,43434,45426,47350,48523
+0500000US53033,King County,US_WA033,S1701_C01_002,Under 18 years,AGE!!Under 18 years,KN.M2,"Total, Estimate",Number,units,Number,407315,413432,418459,423552,428613,433833,439984,442880,444087,446928
+0500000US53033,King County,US_WA033,S1701_C01_003,Under 5 years,AGE!!Under 18 years!!Under 5 years,KN.M2,"Total, Estimate",Number,units,Number,,,,124552,125302,125655,127178,126738,126189,123283
+0500000US53033,King County,US_WA033,S1701_C01_004,5 to 17 years,AGE!!Under 18 years!!5 to 17 years,KN.M2,"Total, Estimate",Number,units,Number,,,,299000,303311,308178,312806,316142,317898,323645
+0500000US53033,King County,US_WA033,S1701_C01_005,Related children of householder under 18 years,AGE!!Under 18 years!!Related children of householder under 18 years,KN.M2,"Total, Estimate",Number,units,Number,404923,411130,416172,421445,426766,431863,438205,441186,442586,445453
+0500000US53033,King County,US_WA033,S1701_C01_006,18 to 64 years,AGE!!18 to 64 years,KN.M2,"Total, Estimate",Number,units,Number,1296678,1314457,1334103,1356094,1374292,1397553,1424767,1444004,1462926,1474375
+0500000US53033,King County,US_WA033,S1701_C01_007,18 to 34 years,AGE!!18 to 64 years!!18 to 34 years,KN.M2,"Total, Estimate",Number,units,Number,,,,510013,518875,530818,548403,559649,570896,569339
+0500000US53033,King County,US_WA033,S1701_C01_008,35 to 64 years,AGE!!18 to 64 years!!35 to 64 years,KN.M2,"Total, Estimate",Number,units,Number,,,,846081,855417,866735,876364,884355,892030,905036
+0500000US53033,King County,US_WA033,S1701_C01_009,60 years and over,AGE!!60 years and over,KN.M2,"Total, Estimate",Number,units,Number,,,,351851,365854,380591,393338,404692,412541,415821
+0500000US53033,King County,US_WA033,S1701_C01_010,65 years and over,AGE!!65 years and over,KN.M2,"Total, Estimate",Number,units,Number,208065,217532,227224,236873,247423,258196,269033,278678,287620,289195
+0500000US53031,Jefferson County,US_WA031,S1701_C01_002,Under 18 years,AGE!!Under 18 years,KN.M2,"Total, Estimate",Number,units,Number,4347,4131,4060,4041,3975,3853,3796,3770,3703,3814
+0500000US53031,Jefferson County,US_WA031,S1701_C01_003,Under 5 years,AGE!!Under 18 years!!Under 5 years,KN.M2,"Total, Estimate",Number,units,Number,,,,1080,1031,1035,922,856,853,840
+0500000US53031,Jefferson County,US_WA031,S1701_C01_004,5 to 17 years,AGE!!Under 18 years!!5 to 17 years,KN.M2,"Total, Estimate",Number,units,Number,,,,2961,2944,2818,2874,2914,2850,2974
+0500000US53031,Jefferson County,US_WA031,S1701_C01_005,Related children of householder under 18 years,AGE!!Under 18 years!!Related children of householder under 18 years,KN.M2,"Total, Estimate",Number,units,Number,4280,4096,3987,4008,3898,3773,3699,3705,3652,3767
+0500000US53031,Jefferson County,US_WA031,S1701_C01_006,18 to 64 years,AGE!!18 to 64 years,KN.M2,"Total, Estimate",Number,units,Number,16846,16620,16368,16223,15974,15840,15740,15704,15796,16116
+0500000US53031,Jefferson County,US_WA031,S1701_C01_007,18 to 34 years,AGE!!18 to 64 years!!18 to 34 years,KN.M2,"Total, Estimate",Number,units,Number,,,,3870,3765,3711,3708,3785,3863,3805
+0500000US53031,Jefferson County,US_WA031,S1701_C01_008,35 to 64 years,AGE!!18 to 64 years!!35 to 64 years,KN.M2,"Total, Estimate",Number,units,Number,,,,12353,12209,12129,12032,11919,11933,12311
+0500000US53031,Jefferson County,US_WA031,S1701_C01_009,60 years and over,AGE!!60 years and over,KN.M2,"Total, Estimate",Number,units,Number,,,,12422,13006,13527,14191,14642,15064,15550
+0500000US53031,Jefferson County,US_WA031,S1701_C01_010,65 years and over,AGE!!65 years and over,KN.M2,"Total, Estimate",Number,units,Number,7856,8225,8584,8943,9500,9981,10488,10970,11515,11948
+0500000US53029,Island County,US_WA029,S1701_C01_002,Under 18 years,AGE!!Under 18 years,KN.M2,"Total, Estimate",Number,units,Number,16016,15747,15418,15098,14925,14681,14796,14955,15073,15439
+0500000US53029,Island County,US_WA029,S1701_C01_003,Under 5 years,AGE!!Under 18 years!!Under 5 years,KN.M2,"Total, Estimate",Number,units,Number,,,,4440,4465,4476,4531,4624,4604,4636
+0500000US53029,Island County,US_WA029,S1701_C01_004,5 to 17 years,AGE!!Under 18 years!!5 to 17 years,KN.M2,"Total, Estimate",Number,units,Number,,,,10658,10460,10205,10265,10331,10469,10803
+0500000US53029,Island County,US_WA029,S1701_C01_005,Related children of householder under 18 years,AGE!!Under 18 years!!Related children of householder under 18 years,KN.M2,"Total, Estimate",Number,units,Number,15907,15621,15288,15001,14871,14619,14773,14933,15051,15419
+0500000US53029,Island County,US_WA029,S1701_C01_006,18 to 64 years,AGE!!18 to 64 years,KN.M2,"Total, Estimate",Number,units,Number,46547,46077,45735,45403,45282,45095,45590,45595,45907,46581
+0500000US53029,Island County,US_WA029,S1701_C01_007,18 to 34 years,AGE!!18 to 64 years!!18 to 34 years,KN.M2,"Total, Estimate",Number,units,Number,,,,15436,15763,15844,16447,16388,16671,16705
+0500000US53029,Island County,US_WA029,S1701_C01_008,35 to 64 years,AGE!!18 to 64 years!!35 to 64 years,KN.M2,"Total, Estimate",Number,units,Number,,,,29967,29519,29251,29143,29207,29236,29876
+0500000US53029,Island County,US_WA029,S1701_C01_009,60 years and over,AGE!!60 years and over,KN.M2,"Total, Estimate",Number,units,Number,,,,22861,24053,24368,25253,26206,27240,27886
+0500000US53029,Island County,US_WA029,S1701_C01_010,65 years and over,AGE!!65 years and over,KN.M2,"Total, Estimate",Number,units,Number,14438,15102,15815,16600,17629,18044,18938,19667,20497,21021
+0500000US53027,Grays Harbor County,US_WA027,S1701_C01_002,Under 18 years,AGE!!Under 18 years,KN.M2,"Total, Estimate",Number,units,Number,15431,15176,14948,14767,14661,14667,14622,14531,14652,14985
+0500000US53027,Grays Harbor County,US_WA027,S1701_C01_003,Under 5 years,AGE!!Under 18 years!!Under 5 years,KN.M2,"Total, Estimate",Number,units,Number,,,,4063,3977,3973,3926,3818,3776,3736
+0500000US53027,Grays Harbor County,US_WA027,S1701_C01_004,5 to 17 years,AGE!!Under 18 years!!5 to 17 years,KN.M2,"Total, Estimate",Number,units,Number,,,,10704,10684,10694,10696,10713,10876,11249
+0500000US53027,Grays Harbor County,US_WA027,S1701_C01_005,Related children of householder under 18 years,AGE!!Under 18 years!!Related children of householder under 18 years,KN.M2,"Total, Estimate",Number,units,Number,15246,14977,14747,14591,14534,14588,14519,14433,14507,14837
+0500000US53027,Grays Harbor County,US_WA027,S1701_C01_006,18 to 64 years,AGE!!18 to 64 years,KN.M2,"Total, Estimate",Number,units,Number,42094,41846,41337,40834,40333,40060,39965,40090,39851,40114
+0500000US53027,Grays Harbor County,US_WA027,S1701_C01_007,18 to 34 years,AGE!!18 to 64 years!!18 to 34 years,KN.M2,"Total, Estimate",Number,units,Number,,,,13190,13032,12822,12863,12905,12966,12803
+0500000US53027,Grays Harbor County,US_WA027,S1701_C01_008,35 to 64 years,AGE!!18 to 64 years!!35 to 64 years,KN.M2,"Total, Estimate",Number,units,Number,,,,27644,27301,27238,27102,27185,26885,27311
+0500000US53027,Grays Harbor County,US_WA027,S1701_C01_009,60 years and over,AGE!!60 years and over,KN.M2,"Total, Estimate",Number,units,Number,,,,17850,18178,19035,19728,20739,21782,22387
+0500000US53027,Grays Harbor County,US_WA027,S1701_C01_010,65 years and over,AGE!!65 years and over,KN.M2,"Total, Estimate",Number,units,Number,11650,11847,12249,12675,13026,13619,14265,14966,15649,15975
+0500000US53025,Grant County,US_WA025,S1701_C01_002,Under 18 years,AGE!!Under 18 years,KN.M2,"Total, Estimate",Number,units,Number,26805,27273,27643,27437,27589,27721,27994,27883,28262,28601
+0500000US53025,Grant County,US_WA025,S1701_C01_003,Under 5 years,AGE!!Under 18 years!!Under 5 years,KN.M2,"Total, Estimate",Number,units,Number,,,,7825,7629,7529,7563,7517,7373,7237
+0500000US53025,Grant County,US_WA025,S1701_C01_004,5 to 17 years,AGE!!Under 18 years!!5 to 17 years,KN.M2,"Total, Estimate",Number,units,Number,,,,19612,19960,20192,20431,20366,20889,21364
+0500000US53025,Grant County,US_WA025,S1701_C01_005,Related children of householder under 18 years,AGE!!Under 18 years!!Related children of householder under 18 years,KN.M2,"Total, Estimate",Number,units,Number,26605,27121,27559,27354,27532,27670,27934,27842,28226,28579
+0500000US53025,Grant County,US_WA025,S1701_C01_006,18 to 64 years,AGE!!18 to 64 years,KN.M2,"Total, Estimate",Number,units,Number,50478,51166,51891,52312,52573,52948,53677,54010,54315,55045
+0500000US53025,Grant County,US_WA025,S1701_C01_007,18 to 34 years,AGE!!18 to 64 years!!18 to 34 years,KN.M2,"Total, Estimate",Number,units,Number,,,,20712,20955,21155,21662,21800,22002,22112
+0500000US53025,Grant County,US_WA025,S1701_C01_008,35 to 64 years,AGE!!18 to 64 years!!35 to 64 years,KN.M2,"Total, Estimate",Number,units,Number,,,,31600,31618,31793,32015,32210,32313,32933
+0500000US53025,Grant County,US_WA025,S1701_C01_009,60 years and over,AGE!!60 years and over,KN.M2,"Total, Estimate",Number,units,Number,,,,16085,16369,16925,17481,17809,18382,18590
+0500000US53025,Grant County,US_WA025,S1701_C01_010,65 years and over,AGE!!65 years and over,KN.M2,"Total, Estimate",Number,units,Number,10432,10645,10917,11179,11387,11800,12283,12649,13237,13352
+0500000US53023,Garfield County,US_WA023,S1701_C01_002,Under 18 years,AGE!!Under 18 years,KN.M2,"Total, Estimate",Number,units,Number,382,401,455,492,540,510,529,533,449,436
+0500000US53023,Garfield County,US_WA023,S1701_C01_003,Under 5 years,AGE!!Under 18 years!!Under 5 years,KN.M2,"Total, Estimate",Number,units,Number,,,,147,166,140,138,110,87,85
+0500000US53023,Garfield County,US_WA023,S1701_C01_004,5 to 17 years,AGE!!Under 18 years!!5 to 17 years,KN.M2,"Total, Estimate",Number,units,Number,,,,345,374,370,391,423,362,351
+0500000US53023,Garfield County,US_WA023,S1701_C01_005,Related children of householder under 18 years,AGE!!Under 18 years!!Related children of householder under 18 years,KN.M2,"Total, Estimate",Number,units,Number,382,401,455,492,540,510,529,533,449,436
+0500000US53023,Garfield County,US_WA023,S1701_C01_006,18 to 64 years,AGE!!18 to 64 years,KN.M2,"Total, Estimate",Number,units,Number,1280,1285,1264,1218,1190,1201,1211,1144,1210,1199
+0500000US53023,Garfield County,US_WA023,S1701_C01_007,18 to 34 years,AGE!!18 to 64 years!!18 to 34 years,KN.M2,"Total, Estimate",Number,units,Number,,,,251,276,306,343,315,378,317
+0500000US53023,Garfield County,US_WA023,S1701_C01_008,35 to 64 years,AGE!!18 to 64 years!!35 to 64 years,KN.M2,"Total, Estimate",Number,units,Number,,,,967,914,895,868,829,832,882
+0500000US53023,Garfield County,US_WA023,S1701_C01_009,60 years and over,AGE!!60 years and over,KN.M2,"Total, Estimate",Number,units,Number,,,,717,681,706,691,732,828,889
+0500000US53023,Garfield County,US_WA023,S1701_C01_010,65 years and over,AGE!!65 years and over,KN.M2,"Total, Estimate",Number,units,Number,536,519,482,490,476,492,461,529,575,618
+0500000US53021,Franklin County,US_WA021,S1701_C01_002,Under 18 years,AGE!!Under 18 years,KN.M2,"Total, Estimate",Number,units,Number,26620,27482,28205,28673,29112,29277,29471,29734,29664,30059
+0500000US53021,Franklin County,US_WA021,S1701_C01_003,Under 5 years,AGE!!Under 18 years!!Under 5 years,KN.M2,"Total, Estimate",Number,units,Number,,,,8664,8484,8258,8152,8132,8112,8015
+0500000US53021,Franklin County,US_WA021,S1701_C01_004,5 to 17 years,AGE!!Under 18 years!!5 to 17 years,KN.M2,"Total, Estimate",Number,units,Number,,,,20009,20628,21019,21319,21602,21552,22044
+0500000US53021,Franklin County,US_WA021,S1701_C01_005,Related children of householder under 18 years,AGE!!Under 18 years!!Related children of householder under 18 years,KN.M2,"Total, Estimate",Number,units,Number,26428,27294,28056,28594,28907,29089,29294,29548,29469,29843
+0500000US53021,Franklin County,US_WA021,S1701_C01_006,18 to 64 years,AGE!!18 to 64 years,KN.M2,"Total, Estimate",Number,units,Number,44814,46511,48015,48884,49459,50213,51016,51642,52420,53641
+0500000US53021,Franklin County,US_WA021,S1701_C01_007,18 to 34 years,AGE!!18 to 64 years!!18 to 34 years,KN.M2,"Total, Estimate",Number,units,Number,,,,21564,21508,21492,21968,22018,22485,22732
+0500000US53021,Franklin County,US_WA021,S1701_C01_008,35 to 64 years,AGE!!18 to 64 years!!35 to 64 years,KN.M2,"Total, Estimate",Number,units,Number,,,,27320,27951,28721,29048,29624,29935,30909
+0500000US53021,Franklin County,US_WA021,S1701_C01_009,60 years and over,AGE!!60 years and over,KN.M2,"Total, Estimate",Number,units,Number,,,,10039,10368,10776,11514,12015,12980,12998
+0500000US53021,Franklin County,US_WA021,S1701_C01_010,65 years and over,AGE!!65 years and over,KN.M2,"Total, Estimate",Number,units,Number,5631,5992,6226,6492,6867,7271,7643,8094,8744,8764
+0500000US53019,Ferry County,US_WA019,S1701_C01_002,Under 18 years,AGE!!Under 18 years,KN.M2,"Total, Estimate",Number,units,Number,1479,1452,1407,1379,1396,1352,1312,1232,1227,1245
+0500000US53019,Ferry County,US_WA019,S1701_C01_003,Under 5 years,AGE!!Under 18 years!!Under 5 years,KN.M2,"Total, Estimate",Number,units,Number,,,,345,326,342,318,306,298,336
+0500000US53019,Ferry County,US_WA019,S1701_C01_004,5 to 17 years,AGE!!Under 18 years!!5 to 17 years,KN.M2,"Total, Estimate",Number,units,Number,,,,1034,1070,1010,994,926,929,909
+0500000US53019,Ferry County,US_WA019,S1701_C01_005,Related children of householder under 18 years,AGE!!Under 18 years!!Related children of householder under 18 years,KN.M2,"Total, Estimate",Number,units,Number,1433,1429,1385,1343,1372,1336,1289,1191,1200,1217
+0500000US53019,Ferry County,US_WA019,S1701_C01_006,18 to 64 years,AGE!!18 to 64 years,KN.M2,"Total, Estimate",Number,units,Number,4588,4589,4602,4576,4473,4399,4343,4346,4257,3894
+0500000US53019,Ferry County,US_WA019,S1701_C01_007,18 to 34 years,AGE!!18 to 64 years!!18 to 34 years,KN.M2,"Total, Estimate",Number,units,Number,,,,1312,1222,1205,1198,1182,1176,1103
+0500000US53019,Ferry County,US_WA019,S1701_C01_008,35 to 64 years,AGE!!18 to 64 years!!35 to 64 years,KN.M2,"Total, Estimate",Number,units,Number,,,,3264,3251,3194,3145,3164,3081,2791
+0500000US53019,Ferry County,US_WA019,S1701_C01_009,60 years and over,AGE!!60 years and over,KN.M2,"Total, Estimate",Number,units,Number,,,,2373,2452,2527,2609,2663,2834,2579
+0500000US53019,Ferry County,US_WA019,S1701_C01_010,65 years and over,AGE!!65 years and over,KN.M2,"Total, Estimate",Number,units,Number,1413,1471,1534,1586,1658,1710,1811,1905,2082,1985
+0500000US53017,Douglas County,US_WA017,S1701_C01_002,Under 18 years,AGE!!Under 18 years,KN.M2,"Total, Estimate",Number,units,Number,10257,10335,10369,10417,10484,10634,10756,10943,10839,10912
+0500000US53017,Douglas County,US_WA017,S1701_C01_003,Under 5 years,AGE!!Under 18 years!!Under 5 years,KN.M2,"Total, Estimate",Number,units,Number,,,,2826,2815,2776,2782,2751,2676,2674
+0500000US53017,Douglas County,US_WA017,S1701_C01_004,5 to 17 years,AGE!!Under 18 years!!5 to 17 years,KN.M2,"Total, Estimate",Number,units,Number,,,,7591,7669,7858,7974,8192,8163,8238
+0500000US53017,Douglas County,US_WA017,S1701_C01_005,Related children of householder under 18 years,AGE!!Under 18 years!!Related children of householder under 18 years,KN.M2,"Total, Estimate",Number,units,Number,10151,10186,10208,10364,10383,10523,10672,10858,10753,10838
+0500000US53017,Douglas County,US_WA017,S1701_C01_006,18 to 64 years,AGE!!18 to 64 years,KN.M2,"Total, Estimate",Number,units,Number,22577,22754,22841,23016,23162,23294,23650,23780,24080,24184
+0500000US53017,Douglas County,US_WA017,S1701_C01_007,18 to 34 years,AGE!!18 to 64 years!!18 to 34 years,KN.M2,"Total, Estimate",Number,units,Number,,,,8046,8176,8276,8452,8539,8679,8719
+0500000US53017,Douglas County,US_WA017,S1701_C01_008,35 to 64 years,AGE!!18 to 64 years!!35 to 64 years,KN.M2,"Total, Estimate",Number,units,Number,,,,14970,14986,15018,15198,15241,15401,15465
+0500000US53017,Douglas County,US_WA017,S1701_C01_009,60 years and over,AGE!!60 years and over,KN.M2,"Total, Estimate",Number,units,Number,,,,8307,8734,9036,9440,9798,9932,9796
+0500000US53017,Douglas County,US_WA017,S1701_C01_010,65 years and over,AGE!!65 years and over,KN.M2,"Total, Estimate",Number,units,Number,5233,5443,5713,5939,6202,6458,6754,7139,7364,7327
+0500000US53015,Cowlitz County,US_WA015,S1701_C01_002,Under 18 years,AGE!!Under 18 years,KN.M2,"Total, Estimate",Number,units,Number,24064,23925,23354,23312,22864,22996,23521,23849,23916,24438
+0500000US53015,Cowlitz County,US_WA015,S1701_C01_003,Under 5 years,AGE!!Under 18 years!!Under 5 years,KN.M2,"Total, Estimate",Number,units,Number,,,,5966,5697,5769,6003,6078,6196,6268
+0500000US53015,Cowlitz County,US_WA015,S1701_C01_004,5 to 17 years,AGE!!Under 18 years!!5 to 17 years,KN.M2,"Total, Estimate",Number,units,Number,,,,17346,17167,17227,17518,17771,17720,18170
+0500000US53015,Cowlitz County,US_WA015,S1701_C01_005,Related children of householder under 18 years,AGE!!Under 18 years!!Related children of householder under 18 years,KN.M2,"Total, Estimate",Number,units,Number,23949,23778,23157,23103,22600,22727,23314,23603,23699,24246
+0500000US53015,Cowlitz County,US_WA015,S1701_C01_006,18 to 64 years,AGE!!18 to 64 years,KN.M2,"Total, Estimate",Number,units,Number,61087,60735,60624,60195,60205,60473,61075,61765,62632,63226
+0500000US53015,Cowlitz County,US_WA015,S1701_C01_007,18 to 34 years,AGE!!18 to 64 years!!18 to 34 years,KN.M2,"Total, Estimate",Number,units,Number,,,,19689,19742,19956,20352,20875,21291,21598
+0500000US53015,Cowlitz County,US_WA015,S1701_C01_008,35 to 64 years,AGE!!18 to 64 years!!35 to 64 years,KN.M2,"Total, Estimate",Number,units,Number,,,,40506,40463,40517,40723,40890,41341,41628
+0500000US53015,Cowlitz County,US_WA015,S1701_C01_009,60 years and over,AGE!!60 years and over,KN.M2,"Total, Estimate",Number,units,Number,,,,24728,25412,25793,26599,27285,28157,28370
+0500000US53015,Cowlitz County,US_WA015,S1701_C01_010,65 years and over,AGE!!65 years and over,KN.M2,"Total, Estimate",Number,units,Number,15510,16122,16664,17333,18030,18381,18974,19626,20187,20340
+0500000US53013,Columbia County,US_WA013,S1701_C01_002,Under 18 years,AGE!!Under 18 years,KN.M2,"Total, Estimate",Number,units,Number,786,799,785,750,725,746,786,780,691,742
+0500000US53013,Columbia County,US_WA013,S1701_C01_003,Under 5 years,AGE!!Under 18 years!!Under 5 years,KN.M2,"Total, Estimate",Number,units,Number,,,,151,182,195,160,174,170,176
+0500000US53013,Columbia County,US_WA013,S1701_C01_004,5 to 17 years,AGE!!Under 18 years!!5 to 17 years,KN.M2,"Total, Estimate",Number,units,Number,,,,599,543,551,626,606,521,566
+0500000US53013,Columbia County,US_WA013,S1701_C01_005,Related children of householder under 18 years,AGE!!Under 18 years!!Related children of householder under 18 years,KN.M2,"Total, Estimate",Number,units,Number,774,783,772,717,704,731,740,740,691,742
+0500000US53013,Columbia County,US_WA013,S1701_C01_006,18 to 64 years,AGE!!18 to 64 years,KN.M2,"Total, Estimate",Number,units,Number,2214,2191,2195,2172,2144,2149,2095,2062,2160,2078
+0500000US53013,Columbia County,US_WA013,S1701_C01_007,18 to 34 years,AGE!!18 to 64 years!!18 to 34 years,KN.M2,"Total, Estimate",Number,units,Number,,,,616,577,563,544,516,562,511
+0500000US53013,Columbia County,US_WA013,S1701_C01_008,35 to 64 years,AGE!!18 to 64 years!!35 to 64 years,KN.M2,"Total, Estimate",Number,units,Number,,,,1556,1567,1586,1551,1546,1598,1567
+0500000US53013,Columbia County,US_WA013,S1701_C01_009,60 years and over,AGE!!60 years and over,KN.M2,"Total, Estimate",Number,units,Number,,,,1303,1339,1341,1408,1426,1450,1453
+0500000US53013,Columbia County,US_WA013,S1701_C01_010,65 years and over,AGE!!65 years and over,KN.M2,"Total, Estimate",Number,units,Number,930,958,973,992,1023,1046,1065,1102,1130,1110
+0500000US53011,Clark County,US_WA011,S1701_C01_002,Under 18 years,AGE!!Under 18 years,KN.M2,"Total, Estimate",Number,units,Number,110347,110716,110983,111367,111922,112316,112609,112755,112917,115699
+0500000US53011,Clark County,US_WA011,S1701_C01_003,Under 5 years,AGE!!Under 18 years!!Under 5 years,KN.M2,"Total, Estimate",Number,units,Number,,,,27921,28371,28344,28508,28655,28574,28699
+0500000US53011,Clark County,US_WA011,S1701_C01_004,5 to 17 years,AGE!!Under 18 years!!5 to 17 years,KN.M2,"Total, Estimate",Number,units,Number,,,,83446,83551,83972,84101,84100,84343,87000
+0500000US53011,Clark County,US_WA011,S1701_C01_005,Related children of householder under 18 years,AGE!!Under 18 years!!Related children of householder under 18 years,KN.M2,"Total, Estimate",Number,units,Number,109764,110027,110137,110627,111189,111331,111809,111968,112157,114907
+0500000US53011,Clark County,US_WA011,S1701_C01_006,18 to 64 years,AGE!!18 to 64 years,KN.M2,"Total, Estimate",Number,units,Number,263525,265728,268468,271182,273748,277409,281397,285486,290378,299584
+0500000US53011,Clark County,US_WA011,S1701_C01_007,18 to 34 years,AGE!!18 to 64 years!!18 to 34 years,KN.M2,"Total, Estimate",Number,units,Number,,,,93239,93882,95235,97347,99548,102146,105117
+0500000US53011,Clark County,US_WA011,S1701_C01_008,35 to 64 years,AGE!!18 to 64 years!!35 to 64 years,KN.M2,"Total, Estimate",Number,units,Number,,,,177943,179866,182174,184050,185938,188232,194467
+0500000US53011,Clark County,US_WA011,S1701_C01_009,60 years and over,AGE!!60 years and over,KN.M2,"Total, Estimate",Number,units,Number,,,,84835,88848,92043,96058,99582,103755,107470
+0500000US53011,Clark County,US_WA011,S1701_C01_010,65 years and over,AGE!!65 years and over,KN.M2,"Total, Estimate",Number,units,Number,48999,51778,54643,57855,61308,63716,66993,70418,73770,76459
+0500000US53009,Clallam County,US_WA009,S1701_C01_002,Under 18 years,AGE!!Under 18 years,KN.M2,"Total, Estimate",Number,units,Number,12685,12568,12385,12432,12443,12437,12597,12632,12675,12748
+0500000US53009,Clallam County,US_WA009,S1701_C01_003,Under 5 years,AGE!!Under 18 years!!Under 5 years,KN.M2,"Total, Estimate",Number,units,Number,,,,3261,3376,3384,3530,3451,3424,3288
+0500000US53009,Clallam County,US_WA009,S1701_C01_004,5 to 17 years,AGE!!Under 18 years!!5 to 17 years,KN.M2,"Total, Estimate",Number,units,Number,,,,9171,9067,9053,9067,9181,9251,9460
+0500000US53009,Clallam County,US_WA009,S1701_C01_005,Related children of householder under 18 years,AGE!!Under 18 years!!Related children of householder under 18 years,KN.M2,"Total, Estimate",Number,units,Number,12612,12443,12202,12192,12121,12102,12320,12428,12531,12722
+0500000US53009,Clallam County,US_WA009,S1701_C01_006,18 to 64 years,AGE!!18 to 64 years,KN.M2,"Total, Estimate",Number,units,Number,40245,40192,40162,40091,39956,39877,40132,40162,40521,40540
+0500000US53009,Clallam County,US_WA009,S1701_C01_007,18 to 34 years,AGE!!18 to 64 years!!18 to 34 years,KN.M2,"Total, Estimate",Number,units,Number,,,,12412,12438,12275,12495,12428,12625,12589
+0500000US53009,Clallam County,US_WA009,S1701_C01_008,35 to 64 years,AGE!!18 to 64 years!!35 to 64 years,KN.M2,"Total, Estimate",Number,units,Number,,,,27679,27518,27602,27637,27734,27896,27951
+0500000US53009,Clallam County,US_WA009,S1701_C01_009,60 years and over,AGE!!60 years and over,KN.M2,"Total, Estimate",Number,units,Number,,,,25078,25797,26243,26851,28063,29099,29293
+0500000US53009,Clallam County,US_WA009,S1701_C01_010,65 years and over,AGE!!65 years and over,KN.M2,"Total, Estimate",Number,units,Number,16956,17524,18022,18635,19279,19782,20502,21346,22270,22478
+0500000US53007,Chelan County,US_WA007,S1701_C01_002,Under 18 years,AGE!!Under 18 years,KN.M2,"Total, Estimate",Number,units,Number,17485,17639,17897,17849,17799,17791,17739,17615,17627,18177
+0500000US53007,Chelan County,US_WA007,S1701_C01_003,Under 5 years,AGE!!Under 18 years!!Under 5 years,KN.M2,"Total, Estimate",Number,units,Number,,,,4989,4888,4732,4567,4440,4453,4532
+0500000US53007,Chelan County,US_WA007,S1701_C01_004,5 to 17 years,AGE!!Under 18 years!!5 to 17 years,KN.M2,"Total, Estimate",Number,units,Number,,,,12860,12911,13059,13172,13175,13174,13645
+0500000US53007,Chelan County,US_WA007,S1701_C01_005,Related children of householder under 18 years,AGE!!Under 18 years!!Related children of householder under 18 years,KN.M2,"Total, Estimate",Number,units,Number,17400,17494,17747,17699,17651,17579,17602,17516,17502,18055
+0500000US53007,Chelan County,US_WA007,S1701_C01_006,18 to 64 years,AGE!!18 to 64 years,KN.M2,"Total, Estimate",Number,units,Number,43025,43394,43268,43318,43206,43309,43451,43568,43604,44800
+0500000US53007,Chelan County,US_WA007,S1701_C01_007,18 to 34 years,AGE!!18 to 64 years!!18 to 34 years,KN.M2,"Total, Estimate",Number,units,Number,,,,15336,15383,15379,15207,15345,15398,15814
+0500000US53007,Chelan County,US_WA007,S1701_C01_008,35 to 64 years,AGE!!18 to 64 years!!35 to 64 years,KN.M2,"Total, Estimate",Number,units,Number,,,,27982,27823,27930,28244,28223,28206,28986
+0500000US53007,Chelan County,US_WA007,S1701_C01_009,60 years and over,AGE!!60 years and over,KN.M2,"Total, Estimate",Number,units,Number,,,,17028,17815,18141,18774,19183,19752,20292
+0500000US53007,Chelan County,US_WA007,S1701_C01_010,65 years and over,AGE!!65 years and over,KN.M2,"Total, Estimate",Number,units,Number,10972,11160,11719,12222,12837,12997,13523,13890,14378,14664
+0500000US53037,Kittitas County,US_WA037,S1701_C01_002,Under 18 years,AGE!!Under 18 years,KN.M2,"Total, Estimate",Number,units,Number,7379,7403,7499,7524,7513,7599,7686,7768,7777,7363
+0500000US53037,Kittitas County,US_WA037,S1701_C01_003,Under 5 years,AGE!!Under 18 years!!Under 5 years,KN.M2,"Total, Estimate",Number,units,Number,,,,2091,2087,2094,2100,2083,2112,1832
+0500000US53037,Kittitas County,US_WA037,S1701_C01_004,5 to 17 years,AGE!!Under 18 years!!5 to 17 years,KN.M2,"Total, Estimate",Number,units,Number,,,,5433,5426,5505,5586,5685,5665,5531
+0500000US53037,Kittitas County,US_WA037,S1701_C01_005,Related children of householder under 18 years,AGE!!Under 18 years!!Related children of householder under 18 years,KN.M2,"Total, Estimate",Number,units,Number,7298,7310,7447,7487,7497,7558,7659,7730,7750,7348
+0500000US53037,Kittitas County,US_WA037,S1701_C01_006,18 to 64 years,AGE!!18 to 64 years,KN.M2,"Total, Estimate",Number,units,Number,26141,26080,26227,26384,26602,27161,27866,28420,29164,27246
+0500000US53037,Kittitas County,US_WA037,S1701_C01_007,18 to 34 years,AGE!!18 to 64 years!!18 to 34 years,KN.M2,"Total, Estimate",Number,units,Number,,,,12231,12166,12546,13067,13209,13743,12562
+0500000US53037,Kittitas County,US_WA037,S1701_C01_008,35 to 64 years,AGE!!18 to 64 years!!35 to 64 years,KN.M2,"Total, Estimate",Number,units,Number,,,,14153,14436,14615,14799,15211,15421,14684
+0500000US53037,Kittitas County,US_WA037,S1701_C01_009,60 years and over,AGE!!60 years and over,KN.M2,"Total, Estimate",Number,units,Number,,,,8438,8760,9192,9679,10069,10630,10021
+0500000US53037,Kittitas County,US_WA037,S1701_C01_010,65 years and over,AGE!!65 years and over,KN.M2,"Total, Estimate",Number,units,Number,5122,5380,5561,5833,6140,6443,6761,7133,7459,6982
+0500000US53039,Klickitat County,US_WA039,S1701_C01_002,Under 18 years,AGE!!Under 18 years,KN.M2,"Total, Estimate",Number,units,Number,4401,4314,4328,4331,4225,4182,4187,4214,4238,4349
+0500000US53039,Klickitat County,US_WA039,S1701_C01_003,Under 5 years,AGE!!Under 18 years!!Under 5 years,KN.M2,"Total, Estimate",Number,units,Number,,,,1175,1058,1034,1084,1077,999,1040
+0500000US53039,Klickitat County,US_WA039,S1701_C01_004,5 to 17 years,AGE!!Under 18 years!!5 to 17 years,KN.M2,"Total, Estimate",Number,units,Number,,,,3156,3167,3148,3103,3137,3239,3309
+0500000US53039,Klickitat County,US_WA039,S1701_C01_005,Related children of householder under 18 years,AGE!!Under 18 years!!Related children of householder under 18 years,KN.M2,"Total, Estimate",Number,units,Number,4399,4312,4268,4268,4165,4092,4099,4191,4213,4339
+0500000US53039,Klickitat County,US_WA039,S1701_C01_006,18 to 64 years,AGE!!18 to 64 years,KN.M2,"Total, Estimate",Number,units,Number,12165,12190,12151,12145,12182,12266,12260,12301,12522,12703
+0500000US53039,Klickitat County,US_WA039,S1701_C01_007,18 to 34 years,AGE!!18 to 64 years!!18 to 34 years,KN.M2,"Total, Estimate",Number,units,Number,,,,3530,3521,3553,3366,3443,3612,3668
+0500000US53039,Klickitat County,US_WA039,S1701_C01_008,35 to 64 years,AGE!!18 to 64 years!!35 to 64 years,KN.M2,"Total, Estimate",Number,units,Number,,,,8615,8661,8713,8894,8858,8910,9035
+0500000US53039,Klickitat County,US_WA039,S1701_C01_009,60 years and over,AGE!!60 years and over,KN.M2,"Total, Estimate",Number,units,Number,,,,6080,6145,6436,6808,6998,7082,7271
+0500000US53039,Klickitat County,US_WA039,S1701_C01_010,65 years and over,AGE!!65 years and over,KN.M2,"Total, Estimate",Number,units,Number,3677,3822,4010,4226,4390,4588,4842,5121,5211,5353
+0500000US53041,Lewis County,US_WA041,S1701_C01_002,Under 18 years,AGE!!Under 18 years,KN.M2,"Total, Estimate",Number,units,Number,16732,16628,16435,16322,16260,16186,16182,16313,16338,17032
+0500000US53041,Lewis County,US_WA041,S1701_C01_003,Under 5 years,AGE!!Under 18 years!!Under 5 years,KN.M2,"Total, Estimate",Number,units,Number,,,,4380,4298,4301,4269,4368,4335,4495
+0500000US53041,Lewis County,US_WA041,S1701_C01_004,5 to 17 years,AGE!!Under 18 years!!5 to 17 years,KN.M2,"Total, Estimate",Number,units,Number,,,,11942,11962,11885,11913,11945,12003,12537
+0500000US53041,Lewis County,US_WA041,S1701_C01_005,Related children of householder under 18 years,AGE!!Under 18 years!!Related children of householder under 18 years,KN.M2,"Total, Estimate",Number,units,Number,16602,16542,16357,16267,16212,16094,16068,16166,16184,16889
+0500000US53041,Lewis County,US_WA041,S1701_C01_006,18 to 64 years,AGE!!18 to 64 years,KN.M2,"Total, Estimate",Number,units,Number,44666,44552,44270,44046,43798,43815,44205,44666,45177,46362
+0500000US53041,Lewis County,US_WA041,S1701_C01_007,18 to 34 years,AGE!!18 to 64 years!!18 to 34 years,KN.M2,"Total, Estimate",Number,units,Number,,,,14493,14393,14490,14638,14755,15162,15414
+0500000US53041,Lewis County,US_WA041,S1701_C01_008,35 to 64 years,AGE!!18 to 64 years!!35 to 64 years,KN.M2,"Total, Estimate",Number,units,Number,,,,29553,29405,29325,29567,29911,30015,30948
+0500000US53041,Lewis County,US_WA041,S1701_C01_009,60 years and over,AGE!!60 years and over,KN.M2,"Total, Estimate",Number,units,Number,,,,19300,19987,20222,21061,21746,22427,22609
+0500000US53041,Lewis County,US_WA041,S1701_C01_010,65 years and over,AGE!!65 years and over,KN.M2,"Total, Estimate",Number,units,Number,12794,13103,13554,13971,14560,14866,15410,15918,16448,16584
+0500000US53043,Lincoln County,US_WA043,S1701_C01_002,Under 18 years,AGE!!Under 18 years,KN.M2,"Total, Estimate",Number,units,Number,2334,2329,2301,2238,2206,2195,2204,2228,2266,2365
+0500000US53043,Lincoln County,US_WA043,S1701_C01_003,Under 5 years,AGE!!Under 18 years!!Under 5 years,KN.M2,"Total, Estimate",Number,units,Number,,,,489,485,481,505,518,556,573
+0500000US53043,Lincoln County,US_WA043,S1701_C01_004,5 to 17 years,AGE!!Under 18 years!!5 to 17 years,KN.M2,"Total, Estimate",Number,units,Number,,,,1749,1721,1714,1699,1710,1710,1792
+0500000US53043,Lincoln County,US_WA043,S1701_C01_005,Related children of householder under 18 years,AGE!!Under 18 years!!Related children of householder under 18 years,KN.M2,"Total, Estimate",Number,units,Number,2309,2315,2295,2229,2199,2186,2196,2219,2266,2365
+0500000US53043,Lincoln County,US_WA043,S1701_C01_006,18 to 64 years,AGE!!18 to 64 years,KN.M2,"Total, Estimate",Number,units,Number,5906,5834,5743,5663,5561,5524,5536,5582,5654,5671
+0500000US53043,Lincoln County,US_WA043,S1701_C01_007,18 to 34 years,AGE!!18 to 64 years!!18 to 34 years,KN.M2,"Total, Estimate",Number,units,Number,,,,1485,1442,1472,1509,1557,1597,1582
+0500000US53043,Lincoln County,US_WA043,S1701_C01_008,35 to 64 years,AGE!!18 to 64 years!!35 to 64 years,KN.M2,"Total, Estimate",Number,units,Number,,,,4178,4119,4052,4027,4025,4057,4089
+0500000US53043,Lincoln County,US_WA043,S1701_C01_009,60 years and over,AGE!!60 years and over,KN.M2,"Total, Estimate",Number,units,Number,,,,3124,3185,3256,3334,3462,3555,3522
+0500000US53043,Lincoln County,US_WA043,S1701_C01_010,65 years and over,AGE!!65 years and over,KN.M2,"Total, Estimate",Number,units,Number,2175,2204,2247,2326,2411,2490,2544,2613,2678,2637
+0500000US53045,Mason County,US_WA045,S1701_C01_002,Under 18 years,AGE!!Under 18 years,KN.M2,"Total, Estimate",Number,units,Number,11706,11650,11575,11439,11508,11590,11891,12175,12474,12497
+0500000US53045,Mason County,US_WA045,S1701_C01_003,Under 5 years,AGE!!Under 18 years!!Under 5 years,KN.M2,"Total, Estimate",Number,units,Number,,,,3228,3199,3161,3218,3305,3419,3377
+0500000US53045,Mason County,US_WA045,S1701_C01_004,5 to 17 years,AGE!!Under 18 years!!5 to 17 years,KN.M2,"Total, Estimate",Number,units,Number,,,,8211,8309,8429,8673,8870,9055,9120
+0500000US53045,Mason County,US_WA045,S1701_C01_005,Related children of householder under 18 years,AGE!!Under 18 years!!Related children of householder under 18 years,KN.M2,"Total, Estimate",Number,units,Number,11582,11562,11472,11365,11444,11513,11790,12090,12325,12334
+0500000US53045,Mason County,US_WA045,S1701_C01_006,18 to 64 years,AGE!!18 to 64 years,KN.M2,"Total, Estimate",Number,units,Number,35816,35673,35671,35497,35480,35407,35730,36181,36972,36697
+0500000US53045,Mason County,US_WA045,S1701_C01_007,18 to 34 years,AGE!!18 to 64 years!!18 to 34 years,KN.M2,"Total, Estimate",Number,units,Number,,,,10793,11001,11019,11241,11526,12075,11923
+0500000US53045,Mason County,US_WA045,S1701_C01_008,35 to 64 years,AGE!!18 to 64 years!!35 to 64 years,KN.M2,"Total, Estimate",Number,units,Number,,,,24704,24479,24388,24489,24655,24897,24774
+0500000US53045,Mason County,US_WA045,S1701_C01_009,60 years and over,AGE!!60 years and over,KN.M2,"Total, Estimate",Number,units,Number,,,,16934,17483,18179,18627,19527,20133,19861
+0500000US53045,Mason County,US_WA045,S1701_C01_010,65 years and over,AGE!!65 years and over,KN.M2,"Total, Estimate",Number,units,Number,11048,11385,11851,12179,12678,13139,13665,14170,14773,14607
+0500000US53047,Okanogan County,US_WA047,S1701_C01_002,Under 18 years,AGE!!Under 18 years,KN.M2,"Total, Estimate",Number,units,Number,9398,9520,9512,9489,9384,9414,9343,9401,9526,9546
+0500000US53047,Okanogan County,US_WA047,S1701_C01_003,Under 5 years,AGE!!Under 18 years!!Under 5 years,KN.M2,"Total, Estimate",Number,units,Number,,,,2725,2646,2606,2526,2474,2458,2411
+0500000US53047,Okanogan County,US_WA047,S1701_C01_004,5 to 17 years,AGE!!Under 18 years!!5 to 17 years,KN.M2,"Total, Estimate",Number,units,Number,,,,6764,6738,6808,6817,6927,7068,7135
+0500000US53047,Okanogan County,US_WA047,S1701_C01_005,Related children of householder under 18 years,AGE!!Under 18 years!!Related children of householder under 18 years,KN.M2,"Total, Estimate",Number,units,Number,9293,9418,9402,9367,9260,9217,9135,9265,9423,9470
+0500000US53047,Okanogan County,US_WA047,S1701_C01_006,18 to 64 years,AGE!!18 to 64 years,KN.M2,"Total, Estimate",Number,units,Number,24044,23843,23678,23595,23284,23088,23179,23127,22938,22852
+0500000US53047,Okanogan County,US_WA047,S1701_C01_007,18 to 34 years,AGE!!18 to 64 years!!18 to 34 years,KN.M2,"Total, Estimate",Number,units,Number,,,,7338,7298,7233,7336,7404,7329,7261
+0500000US53047,Okanogan County,US_WA047,S1701_C01_008,35 to 64 years,AGE!!18 to 64 years!!35 to 64 years,KN.M2,"Total, Estimate",Number,units,Number,,,,16257,15986,15855,15843,15723,15609,15591
+0500000US53047,Okanogan County,US_WA047,S1701_C01_009,60 years and over,AGE!!60 years and over,KN.M2,"Total, Estimate",Number,units,Number,,,,10630,11053,11397,11743,11962,12422,12304
+0500000US53047,Okanogan County,US_WA047,S1701_C01_010,65 years and over,AGE!!65 years and over,KN.M2,"Total, Estimate",Number,units,Number,6855,7114,7386,7627,7997,8205,8439,8648,9017,8947
+0500000US53049,Pacific County,US_WA049,S1701_C01_002,Under 18 years,AGE!!Under 18 years,KN.M2,"Total, Estimate",Number,units,Number,3681,3597,3576,3536,3508,3505,3432,3369,3214,3337
+0500000US53049,Pacific County,US_WA049,S1701_C01_003,Under 5 years,AGE!!Under 18 years!!Under 5 years,KN.M2,"Total, Estimate",Number,units,Number,,,,943,908,902,848,883,794,765
+0500000US53049,Pacific County,US_WA049,S1701_C01_004,5 to 17 years,AGE!!Under 18 years!!5 to 17 years,KN.M2,"Total, Estimate",Number,units,Number,,,,2593,2600,2603,2584,2486,2420,2572
+0500000US53049,Pacific County,US_WA049,S1701_C01_005,Related children of householder under 18 years,AGE!!Under 18 years!!Related children of householder under 18 years,KN.M2,"Total, Estimate",Number,units,Number,3643,3563,3553,3530,3501,3505,3421,3355,3163,3264
+0500000US53049,Pacific County,US_WA049,S1701_C01_006,18 to 64 years,AGE!!18 to 64 years,KN.M2,"Total, Estimate",Number,units,Number,11823,11687,11469,11400,11313,11267,11369,11493,11586,11984
+0500000US53049,Pacific County,US_WA049,S1701_C01_007,18 to 34 years,AGE!!18 to 64 years!!18 to 34 years,KN.M2,"Total, Estimate",Number,units,Number,,,,3041,3044,3068,3135,3180,3206,3221
+0500000US53049,Pacific County,US_WA049,S1701_C01_008,35 to 64 years,AGE!!18 to 64 years!!35 to 64 years,KN.M2,"Total, Estimate",Number,units,Number,,,,8359,8269,8199,8234,8313,8380,8763
+0500000US53049,Pacific County,US_WA049,S1701_C01_009,60 years and over,AGE!!60 years and over,KN.M2,"Total, Estimate",Number,units,Number,,,,7646,7863,7967,8280,8565,9002,9368
+0500000US53049,Pacific County,US_WA049,S1701_C01_010,65 years and over,AGE!!65 years and over,KN.M2,"Total, Estimate",Number,units,Number,5175,5262,5382,5480,5697,5950,6184,6517,6914,7255
+0500000US53051,Pend Oreille County,US_WA051,S1701_C01_002,Under 18 years,AGE!!Under 18 years,KN.M2,"Total, Estimate",Number,units,Number,2738,2690,2680,2643,2604,2564,2569,2499,2529,2548
+0500000US53051,Pend Oreille County,US_WA051,S1701_C01_003,Under 5 years,AGE!!Under 18 years!!Under 5 years,KN.M2,"Total, Estimate",Number,units,Number,,,,583,633,604,609,589,579,579
+0500000US53051,Pend Oreille County,US_WA051,S1701_C01_004,5 to 17 years,AGE!!Under 18 years!!5 to 17 years,KN.M2,"Total, Estimate",Number,units,Number,,,,2060,1971,1960,1960,1910,1950,1969
+0500000US53051,Pend Oreille County,US_WA051,S1701_C01_005,Related children of householder under 18 years,AGE!!Under 18 years!!Related children of householder under 18 years,KN.M2,"Total, Estimate",Number,units,Number,2710,2683,2673,2631,2591,2553,2558,2482,2522,2536
+0500000US53051,Pend Oreille County,US_WA051,S1701_C01_006,18 to 64 years,AGE!!18 to 64 years,KN.M2,"Total, Estimate",Number,units,Number,7627,7519,7402,7309,7229,7244,7245,7333,7388,7235
+0500000US53051,Pend Oreille County,US_WA051,S1701_C01_007,18 to 34 years,AGE!!18 to 64 years!!18 to 34 years,KN.M2,"Total, Estimate",Number,units,Number,,,,1797,1790,1864,1902,1975,2168,2139
+0500000US53051,Pend Oreille County,US_WA051,S1701_C01_008,35 to 64 years,AGE!!18 to 64 years!!35 to 64 years,KN.M2,"Total, Estimate",Number,units,Number,,,,5512,5439,5380,5343,5358,5220,5096
+0500000US53051,Pend Oreille County,US_WA051,S1701_C01_009,60 years and over,AGE!!60 years and over,KN.M2,"Total, Estimate",Number,units,Number,,,,3958,4251,4367,4545,4676,4936,4653
+0500000US53051,Pend Oreille County,US_WA051,S1701_C01_010,65 years and over,AGE!!65 years and over,KN.M2,"Total, Estimate",Number,units,Number,2475,2594,2741,2872,3029,3117,3265,3374,3529,3389
+0500000US53053,Pierce County,US_WA053,S1701_C01_002,Under 18 years,AGE!!Under 18 years,KN.M2,"Total, Estimate",Number,units,Number,194218,194551,194207,194492,196106,198090,200824,202901,204980,209435
+0500000US53053,Pierce County,US_WA053,S1701_C01_003,Under 5 years,AGE!!Under 18 years!!Under 5 years,KN.M2,"Total, Estimate",Number,units,Number,,,,55280,55788,56190,57118,57523,57652,56995
+0500000US53053,Pierce County,US_WA053,S1701_C01_004,5 to 17 years,AGE!!Under 18 years!!5 to 17 years,KN.M2,"Total, Estimate",Number,units,Number,,,,139212,140318,141900,143706,145378,147328,152440
+0500000US53053,Pierce County,US_WA053,S1701_C01_005,Related children of householder under 18 years,AGE!!Under 18 years!!Related children of householder under 18 years,KN.M2,"Total, Estimate",Number,units,Number,193121,193544,193022,193179,194728,196754,199565,201738,204243,208585
+0500000US53053,Pierce County,US_WA053,S1701_C01_006,18 to 64 years,AGE!!18 to 64 years,KN.M2,"Total, Estimate",Number,units,Number,497523,501789,506424,512338,516952,523758,531589,540707,548870,559636
+0500000US53053,Pierce County,US_WA053,S1701_C01_007,18 to 34 years,AGE!!18 to 64 years!!18 to 34 years,KN.M2,"Total, Estimate",Number,units,Number,,,,194771,196529,199818,203192,208239,211703,212965
+0500000US53053,Pierce County,US_WA053,S1701_C01_008,35 to 64 years,AGE!!18 to 64 years!!35 to 64 years,KN.M2,"Total, Estimate",Number,units,Number,,,,317567,320423,323940,328397,332468,337167,346671
+0500000US53053,Pierce County,US_WA053,S1701_C01_009,60 years and over,AGE!!60 years and over,KN.M2,"Total, Estimate",Number,units,Number,,,,143517,149837,154825,161046,168407,174613,179514
+0500000US53053,Pierce County,US_WA053,S1701_C01_010,65 years and over,AGE!!65 years and over,KN.M2,"Total, Estimate",Number,units,Number,86777,90180,93977,98109,103111,106672,111368,116391,120519,123164
+0500000US53055,San Juan County,US_WA055,S1701_C01_002,Under 18 years,AGE!!Under 18 years,KN.M2,"Total, Estimate",Number,units,Number,2406,2371,2304,2281,2205,2170,2141,2132,2093,2206
+0500000US53055,San Juan County,US_WA055,S1701_C01_003,Under 5 years,AGE!!Under 18 years!!Under 5 years,KN.M2,"Total, Estimate",Number,units,Number,,,,479,456,451,460,464,463,487
+0500000US53055,San Juan County,US_WA055,S1701_C01_004,5 to 17 years,AGE!!Under 18 years!!5 to 17 years,KN.M2,"Total, Estimate",Number,units,Number,,,,1802,1749,1719,1681,1668,1630,1719
+0500000US53055,San Juan County,US_WA055,S1701_C01_005,Related children of householder under 18 years,AGE!!Under 18 years!!Related children of householder under 18 years,KN.M2,"Total, Estimate",Number,units,Number,2373,2346,2277,2250,2172,2149,2119,2098,2071,2187
+0500000US53055,San Juan County,US_WA055,S1701_C01_006,18 to 64 years,AGE!!18 to 64 years,KN.M2,"Total, Estimate",Number,units,Number,9535,9362,9184,9061,8935,8909,8885,8941,8975,9322
+0500000US53055,San Juan County,US_WA055,S1701_C01_007,18 to 34 years,AGE!!18 to 64 years!!18 to 34 years,KN.M2,"Total, Estimate",Number,units,Number,,,,1978,1979,1967,2026,2041,2138,2250
+0500000US53055,San Juan County,US_WA055,S1701_C01_008,35 to 64 years,AGE!!18 to 64 years!!35 to 64 years,KN.M2,"Total, Estimate",Number,units,Number,,,,7083,6956,6942,6859,6900,6837,7072
+0500000US53055,San Juan County,US_WA055,S1701_C01_009,60 years and over,AGE!!60 years and over,KN.M2,"Total, Estimate",Number,units,Number,,,,6242,6419,6601,6911,7181,7386,7734
+0500000US53055,San Juan County,US_WA055,S1701_C01_010,65 years and over,AGE!!65 years and over,KN.M2,"Total, Estimate",Number,units,Number,3628,3876,4161,4413,4688,4914,5200,5480,5635,5891
+0500000US53057,Skagit County,US_WA057,S1701_C01_002,Under 18 years,AGE!!Under 18 years,KN.M2,"Total, Estimate",Number,units,Number,27138,26660,26441,26313,26297,26488,27008,26740,26953,27112
+0500000US53057,Skagit County,US_WA057,S1701_C01_003,Under 5 years,AGE!!Under 18 years!!Under 5 years,KN.M2,"Total, Estimate",Number,units,Number,,,,7120,7054,7123,7428,7257,7280,7097
+0500000US53057,Skagit County,US_WA057,S1701_C01_004,5 to 17 years,AGE!!Under 18 years!!5 to 17 years,KN.M2,"Total, Estimate",Number,units,Number,,,,19193,19243,19365,19580,19483,19673,20015
+0500000US53057,Skagit County,US_WA057,S1701_C01_005,Related children of householder under 18 years,AGE!!Under 18 years!!Related children of householder under 18 years,KN.M2,"Total, Estimate",Number,units,Number,26887,26466,26150,26048,26034,26241,26767,26533,26780,26938
+0500000US53057,Skagit County,US_WA057,S1701_C01_006,18 to 64 years,AGE!!18 to 64 years,KN.M2,"Total, Estimate",Number,units,Number,69923,70012,69994,70106,70222,70659,71372,71845,72509,72962
+0500000US53057,Skagit County,US_WA057,S1701_C01_007,18 to 34 years,AGE!!18 to 64 years!!18 to 34 years,KN.M2,"Total, Estimate",Number,units,Number,,,,24098,24228,24366,24714,25035,25257,25237
+0500000US53057,Skagit County,US_WA057,S1701_C01_008,35 to 64 years,AGE!!18 to 64 years!!35 to 64 years,KN.M2,"Total, Estimate",Number,units,Number,,,,46008,45994,46293,46658,46810,47252,47725
+0500000US53057,Skagit County,US_WA057,S1701_C01_009,60 years and over,AGE!!60 years and over,KN.M2,"Total, Estimate",Number,units,Number,,,,29562,30696,31468,32621,33962,35074,35521
+0500000US53057,Skagit County,US_WA057,S1701_C01_010,65 years and over,AGE!!65 years and over,KN.M2,"Total, Estimate",Number,units,Number,18736,19433,20247,21129,22175,22864,23964,25071,26149,26392
+0500000US53059,Skamania County,US_WA059,S1701_C01_002,Under 18 years,AGE!!Under 18 years,KN.M2,"Total, Estimate",Number,units,Number,2388,2348,2342,2340,2288,2180,2153,2149,2138,2101
+0500000US53059,Skamania County,US_WA059,S1701_C01_003,Under 5 years,AGE!!Under 18 years!!Under 5 years,KN.M2,"Total, Estimate",Number,units,Number,,,,542,518,498,502,490,474,460
+0500000US53059,Skamania County,US_WA059,S1701_C01_004,5 to 17 years,AGE!!Under 18 years!!5 to 17 years,KN.M2,"Total, Estimate",Number,units,Number,,,,1798,1770,1682,1651,1659,1664,1641
+0500000US53059,Skamania County,US_WA059,S1701_C01_005,Related children of householder under 18 years,AGE!!Under 18 years!!Related children of householder under 18 years,KN.M2,"Total, Estimate",Number,units,Number,2384,2344,2334,2338,2284,2176,2149,2142,2130,2087
+0500000US53059,Skamania County,US_WA059,S1701_C01_006,18 to 64 years,AGE!!18 to 64 years,KN.M2,"Total, Estimate",Number,units,Number,7003,7026,7011,6997,6960,7052,7110,7135,7194,7286
+0500000US53059,Skamania County,US_WA059,S1701_C01_007,18 to 34 years,AGE!!18 to 64 years!!18 to 34 years,KN.M2,"Total, Estimate",Number,units,Number,,,,1865,1828,1872,1892,1844,1837,1977
+0500000US53059,Skamania County,US_WA059,S1701_C01_008,35 to 64 years,AGE!!18 to 64 years!!35 to 64 years,KN.M2,"Total, Estimate",Number,units,Number,,,,5132,5132,5180,5218,5291,5357,5309
+0500000US53059,Skamania County,US_WA059,S1701_C01_009,60 years and over,AGE!!60 years and over,KN.M2,"Total, Estimate",Number,units,Number,,,,2872,2958,3238,3354,3515,3597,3667
+0500000US53059,Skamania County,US_WA059,S1701_C01_010,65 years and over,AGE!!65 years and over,KN.M2,"Total, Estimate",Number,units,Number,1566,1655,1750,1841,1935,2122,2228,2339,2450,2488
+0500000US53061,Snohomish County,US_WA061,S1701_C01_002,Under 18 years,AGE!!Under 18 years,KN.M2,"Total, Estimate",Number,units,Number,170563,170959,170911,171403,172820,174948,177315,178571,180928,183010
+0500000US53061,Snohomish County,US_WA061,S1701_C01_003,Under 5 years,AGE!!Under 18 years!!Under 5 years,KN.M2,"Total, Estimate",Number,units,Number,,,,46217,47174,48076,49033,49770,50519,50091
+0500000US53061,Snohomish County,US_WA061,S1701_C01_004,5 to 17 years,AGE!!Under 18 years!!5 to 17 years,KN.M2,"Total, Estimate",Number,units,Number,,,,125186,125646,126872,128282,128801,130409,132919
+0500000US53061,Snohomish County,US_WA061,S1701_C01_005,Related children of householder under 18 years,AGE!!Under 18 years!!Related children of householder under 18 years,KN.M2,"Total, Estimate",Number,units,Number,169517,169728,169580,170051,171488,173600,176189,177460,179715,182047
+0500000US53061,Snohomish County,US_WA061,S1701_C01_006,18 to 64 years,AGE!!18 to 64 years,KN.M2,"Total, Estimate",Number,units,Number,460633,466924,473390,479610,485827,493474,500538,506023,512250,516718
+0500000US53061,Snohomish County,US_WA061,S1701_C01_007,18 to 34 years,AGE!!18 to 64 years!!18 to 34 years,KN.M2,"Total, Estimate",Number,units,Number,,,,168131,169752,172515,175755,177443,179643,179119
+0500000US53061,Snohomish County,US_WA061,S1701_C01_008,35 to 64 years,AGE!!18 to 64 years!!35 to 64 years,KN.M2,"Total, Estimate",Number,units,Number,,,,311479,316075,320959,324783,328580,332607,337599
+0500000US53061,Snohomish County,US_WA061,S1701_C01_009,60 years and over,AGE!!60 years and over,KN.M2,"Total, Estimate",Number,units,Number,,,,129717,135860,141038,147405,152999,160292,163911
+0500000US53061,Snohomish County,US_WA061,S1701_C01_010,65 years and over,AGE!!65 years and over,KN.M2,"Total, Estimate",Number,units,Number,73307,76995,80894,85138,89718,93275,97903,102575,107204,109282
+0500000US53063,Spokane County,US_WA063,S1701_C01_002,Under 18 years,AGE!!Under 18 years,KN.M2,"Total, Estimate",Number,units,Number,107034,106804,106517,106593,106928,108087,109467,110528,110926,115356
+0500000US53063,Spokane County,US_WA063,S1701_C01_003,Under 5 years,AGE!!Under 18 years!!Under 5 years,KN.M2,"Total, Estimate",Number,units,Number,,,,29265,29485,29877,30282,30348,30040,30338
+0500000US53063,Spokane County,US_WA063,S1701_C01_004,5 to 17 years,AGE!!Under 18 years!!5 to 17 years,KN.M2,"Total, Estimate",Number,units,Number,,,,77328,77443,78210,79185,80180,80886,85018
+0500000US53063,Spokane County,US_WA063,S1701_C01_005,Related children of householder under 18 years,AGE!!Under 18 years!!Related children of householder under 18 years,KN.M2,"Total, Estimate",Number,units,Number,106553,106232,105859,105818,106230,107344,108768,109785,110387,114895
+0500000US53063,Spokane County,US_WA063,S1701_C01_006,18 to 64 years,AGE!!18 to 64 years,KN.M2,"Total, Estimate",Number,units,Number,289665,290638,291299,292241,294026,295960,299031,302429,306194,317029
+0500000US53063,Spokane County,US_WA063,S1701_C01_007,18 to 34 years,AGE!!18 to 64 years!!18 to 34 years,KN.M2,"Total, Estimate",Number,units,Number,,,,110604,111028,111747,113294,114845,116698,119658
+0500000US53063,Spokane County,US_WA063,S1701_C01_008,35 to 64 years,AGE!!18 to 64 years!!35 to 64 years,KN.M2,"Total, Estimate",Number,units,Number,,,,181637,182998,184213,185737,187584,189496,197371
+0500000US53063,Spokane County,US_WA063,S1701_C01_009,60 years and over,AGE!!60 years and over,KN.M2,"Total, Estimate",Number,units,Number,,,,97092,100886,103289,106115,110758,115222,119823
+0500000US53063,Spokane County,US_WA063,S1701_C01_010,65 years and over,AGE!!65 years and over,KN.M2,"Total, Estimate",Number,units,Number,59598,61883,64340,66919,69929,72018,74979,78037,81224,84157
+0500000US53077,Yakima County,US_WA077,S1701_C01_002,Under 18 years,AGE!!Under 18 years,KN.M2,"Total, Estimate",Number,units,Number,71783,72467,72843,72753,73142,73103,73287,73074,73232,74760
+0500000US53077,Yakima County,US_WA077,S1701_C01_003,Under 5 years,AGE!!Under 18 years!!Under 5 years,KN.M2,"Total, Estimate",Number,units,Number,,,,20501,20345,20064,20140,19989,19740,19520
+0500000US53077,Yakima County,US_WA077,S1701_C01_004,5 to 17 years,AGE!!Under 18 years!!5 to 17 years,KN.M2,"Total, Estimate",Number,units,Number,,,,52252,52797,53039,53147,53085,53492,55240
+0500000US53077,Yakima County,US_WA077,S1701_C01_005,Related children of householder under 18 years,AGE!!Under 18 years!!Related children of householder under 18 years,KN.M2,"Total, Estimate",Number,units,Number,71317,72045,72519,72446,72840,72703,72941,72725,72929,74486
+0500000US53077,Yakima County,US_WA077,S1701_C01_006,18 to 64 years,AGE!!18 to 64 years,KN.M2,"Total, Estimate",Number,units,Number,139080,140115,140639,140513,139833,140031,139987,139609,139805,142317
+0500000US53077,Yakima County,US_WA077,S1701_C01_007,18 to 34 years,AGE!!18 to 64 years!!18 to 34 years,KN.M2,"Total, Estimate",Number,units,Number,,,,56214,55564,55731,55920,55845,56430,57092
+0500000US53077,Yakima County,US_WA077,S1701_C01_008,35 to 64 years,AGE!!18 to 64 years!!35 to 64 years,KN.M2,"Total, Estimate",Number,units,Number,,,,84299,84269,84300,84067,83764,83375,85225
+0500000US53077,Yakima County,US_WA077,S1701_C01_009,60 years and over,AGE!!60 years and over,KN.M2,"Total, Estimate",Number,units,Number,,,,41645,42840,43777,44856,45886,46812,47813
+0500000US53077,Yakima County,US_WA077,S1701_C01_010,65 years and over,AGE!!65 years and over,KN.M2,"Total, Estimate",Number,units,Number,27305,27969,28838,29814,30729,31301,32215,33125,33906,34345
+0500000US53075,Whitman County,US_WA075,S1701_C01_002,Under 18 years,AGE!!Under 18 years,KN.M2,"Total, Estimate",Number,units,Number,6614,6727,6814,6932,7068,7104,7203,7359,7278,7213
+0500000US53075,Whitman County,US_WA075,S1701_C01_003,Under 5 years,AGE!!Under 18 years!!Under 5 years,KN.M2,"Total, Estimate",Number,units,Number,,,,2007,2022,2024,2054,2081,1946,1959
+0500000US53075,Whitman County,US_WA075,S1701_C01_004,5 to 17 years,AGE!!Under 18 years!!5 to 17 years,KN.M2,"Total, Estimate",Number,units,Number,,,,4925,5046,5080,5149,5278,5332,5254
+0500000US53075,Whitman County,US_WA075,S1701_C01_005,Related children of householder under 18 years,AGE!!Under 18 years!!Related children of householder under 18 years,KN.M2,"Total, Estimate",Number,units,Number,6600,6716,6788,6908,7041,7085,7185,7352,7262,7195
+0500000US53075,Whitman County,US_WA075,S1701_C01_006,18 to 64 years,AGE!!18 to 64 years,KN.M2,"Total, Estimate",Number,units,Number,28215,28218,28409,28929,29230,29161,29769,30089,30121,28891
+0500000US53075,Whitman County,US_WA075,S1701_C01_007,18 to 34 years,AGE!!18 to 64 years!!18 to 34 years,KN.M2,"Total, Estimate",Number,units,Number,,,,17143,17324,17002,17613,17779,17623,16717
+0500000US53075,Whitman County,US_WA075,S1701_C01_008,35 to 64 years,AGE!!18 to 64 years!!35 to 64 years,KN.M2,"Total, Estimate",Number,units,Number,,,,11786,11906,12159,12156,12310,12498,12174
+0500000US53075,Whitman County,US_WA075,S1701_C01_009,60 years and over,AGE!!60 years and over,KN.M2,"Total, Estimate",Number,units,Number,,,,6301,6439,6559,6766,7006,7180,7117
+0500000US53075,Whitman County,US_WA075,S1701_C01_010,65 years and over,AGE!!65 years and over,KN.M2,"Total, Estimate",Number,units,Number,4121,4225,4334,4401,4492,4550,4698,4847,5151,5063
+0500000US53073,Whatcom County,US_WA073,S1701_C01_002,Under 18 years,AGE!!Under 18 years,KN.M2,"Total, Estimate",Number,units,Number,41496,41493,41405,41357,41432,41828,42439,42603,42193,42215
+0500000US53073,Whatcom County,US_WA073,S1701_C01_003,Under 5 years,AGE!!Under 18 years!!Under 5 years,KN.M2,"Total, Estimate",Number,units,Number,,,,11221,11363,11547,11676,11643,11565,11192
+0500000US53073,Whatcom County,US_WA073,S1701_C01_004,5 to 17 years,AGE!!Under 18 years!!5 to 17 years,KN.M2,"Total, Estimate",Number,units,Number,,,,30136,30069,30281,30763,30960,30628,31023
+0500000US53073,Whatcom County,US_WA073,S1701_C01_005,Related children of householder under 18 years,AGE!!Under 18 years!!Related children of householder under 18 years,KN.M2,"Total, Estimate",Number,units,Number,41283,41338,41222,41177,41152,41576,42097,42400,41986,41967
+0500000US53073,Whatcom County,US_WA073,S1701_C01_006,18 to 64 years,AGE!!18 to 64 years,KN.M2,"Total, Estimate",Number,units,Number,128488,128947,129313,130147,130916,132183,134291,136247,138284,138041
+0500000US53073,Whatcom County,US_WA073,S1701_C01_007,18 to 34 years,AGE!!18 to 64 years!!18 to 34 years,KN.M2,"Total, Estimate",Number,units,Number,,,,53436,53896,54685,55945,57107,58317,57647
+0500000US53073,Whatcom County,US_WA073,S1701_C01_008,35 to 64 years,AGE!!18 to 64 years!!35 to 64 years,KN.M2,"Total, Estimate",Number,units,Number,,,,76711,77020,77498,78346,79140,79967,80394
+0500000US53073,Whatcom County,US_WA073,S1701_C01_009,60 years and over,AGE!!60 years and over,KN.M2,"Total, Estimate",Number,units,Number,,,,43630,45495,46673,48437,50947,52749,52808
+0500000US53073,Whatcom County,US_WA073,S1701_C01_010,65 years and over,AGE!!65 years and over,KN.M2,"Total, Estimate",Number,units,Number,26391,27587,28740,30079,31822,33294,34836,36705,38323,38727
+0500000US53071,Walla Walla County,US_WA071,S1701_C01_002,Under 18 years,AGE!!Under 18 years,KN.M2,"Total, Estimate",Number,units,Number,13057,12979,12978,12901,12649,12695,12694,12552,12652,13032
+0500000US53071,Walla Walla County,US_WA071,S1701_C01_003,Under 5 years,AGE!!Under 18 years!!Under 5 years,KN.M2,"Total, Estimate",Number,units,Number,,,,3489,3389,3338,3360,3304,3267,3144
+0500000US53071,Walla Walla County,US_WA071,S1701_C01_004,5 to 17 years,AGE!!Under 18 years!!5 to 17 years,KN.M2,"Total, Estimate",Number,units,Number,,,,9412,9260,9357,9334,9248,9385,9888
+0500000US53071,Walla Walla County,US_WA071,S1701_C01_005,Related children of householder under 18 years,AGE!!Under 18 years!!Related children of householder under 18 years,KN.M2,"Total, Estimate",Number,units,Number,12942,12917,12913,12860,12619,12689,12658,12498,12597,12971
+0500000US53071,Walla Walla County,US_WA071,S1701_C01_006,18 to 64 years,AGE!!18 to 64 years,KN.M2,"Total, Estimate",Number,units,Number,32405,32524,32540,32225,32338,32299,32437,32389,32441,33202
+0500000US53071,Walla Walla County,US_WA071,S1701_C01_007,18 to 34 years,AGE!!18 to 64 years!!18 to 34 years,KN.M2,"Total, Estimate",Number,units,Number,,,,11960,12079,12045,12347,12356,12460,12716
+0500000US53071,Walla Walla County,US_WA071,S1701_C01_008,35 to 64 years,AGE!!18 to 64 years!!35 to 64 years,KN.M2,"Total, Estimate",Number,units,Number,,,,20265,20259,20254,20090,20033,19981,20486
+0500000US53071,Walla Walla County,US_WA071,S1701_C01_009,60 years and over,AGE!!60 years and over,KN.M2,"Total, Estimate",Number,units,Number,,,,12591,12952,12980,13694,13827,14505,14948
+0500000US53071,Walla Walla County,US_WA071,S1701_C01_010,65 years and over,AGE!!65 years and over,KN.M2,"Total, Estimate",Number,units,Number,8448,8665,8778,9191,9461,9647,9988,10331,10710,10967
+0500000US53065,Stevens County,US_WA065,S1701_C01_002,Under 18 years,AGE!!Under 18 years,KN.M2,"Total, Estimate",Number,units,Number,9943,9812,9751,9635,9554,9508,9453,9335,9327,9613
+0500000US53065,Stevens County,US_WA065,S1701_C01_003,Under 5 years,AGE!!Under 18 years!!Under 5 years,KN.M2,"Total, Estimate",Number,units,Number,,,,2139,2209,2304,2315,2283,2304,2324
+0500000US53065,Stevens County,US_WA065,S1701_C01_004,5 to 17 years,AGE!!Under 18 years!!5 to 17 years,KN.M2,"Total, Estimate",Number,units,Number,,,,7496,7345,7204,7138,7052,7023,7289
+0500000US53065,Stevens County,US_WA065,S1701_C01_005,Related children of householder under 18 years,AGE!!Under 18 years!!Related children of householder under 18 years,KN.M2,"Total, Estimate",Number,units,Number,9928,9752,9689,9581,9488,9431,9410,9299,9284,9591
+0500000US53065,Stevens County,US_WA065,S1701_C01_006,18 to 64 years,AGE!!18 to 64 years,KN.M2,"Total, Estimate",Number,units,Number,25469,25344,25173,25058,24907,24802,24784,24921,24942,25270
+0500000US53065,Stevens County,US_WA065,S1701_C01_007,18 to 34 years,AGE!!18 to 64 years!!18 to 34 years,KN.M2,"Total, Estimate",Number,units,Number,,,,6580,6632,6789,6952,7143,7256,7312
+0500000US53065,Stevens County,US_WA065,S1701_C01_008,35 to 64 years,AGE!!18 to 64 years!!35 to 64 years,KN.M2,"Total, Estimate",Number,units,Number,,,,18478,18275,18013,17832,17778,17686,17958
+0500000US53065,Stevens County,US_WA065,S1701_C01_009,60 years and over,AGE!!60 years and over,KN.M2,"Total, Estimate",Number,units,Number,,,,12304,12819,13001,13392,13972,14516,14906
+0500000US53065,Stevens County,US_WA065,S1701_C01_010,65 years and over,AGE!!65 years and over,KN.M2,"Total, Estimate",Number,units,Number,7440,7740,8099,8430,8839,9133,9537,9918,10418,10666
+0500000US53067,Thurston County,US_WA067,S1701_C01_002,Under 18 years,AGE!!Under 18 years,KN.M2,"Total, Estimate",Number,units,Number,56615,57117,57196,57299,57598,58082,58804,59418,59957,61312
+0500000US53067,Thurston County,US_WA067,S1701_C01_003,Under 5 years,AGE!!Under 18 years!!Under 5 years,KN.M2,"Total, Estimate",Number,units,Number,,,,15372,15447,15670,15785,15988,16112,16019
+0500000US53067,Thurston County,US_WA067,S1701_C01_004,5 to 17 years,AGE!!Under 18 years!!5 to 17 years,KN.M2,"Total, Estimate",Number,units,Number,,,,41927,42151,42412,43019,43430,43845,45293
+0500000US53067,Thurston County,US_WA067,S1701_C01_005,Related children of householder under 18 years,AGE!!Under 18 years!!Related children of householder under 18 years,KN.M2,"Total, Estimate",Number,units,Number,56398,56793,56929,57000,57330,57755,58446,59046,59681,61007
+0500000US53067,Thurston County,US_WA067,S1701_C01_006,18 to 64 years,AGE!!18 to 64 years,KN.M2,"Total, Estimate",Number,units,Number,159801,161561,162910,164233,165111,166377,168299,170494,172699,176046
+0500000US53067,Thurston County,US_WA067,S1701_C01_007,18 to 34 years,AGE!!18 to 64 years!!18 to 34 years,KN.M2,"Total, Estimate",Number,units,Number,,,,59374,59553,60240,61187,62192,63257,63673
+0500000US53067,Thurston County,US_WA067,S1701_C01_008,35 to 64 years,AGE!!18 to 64 years!!35 to 64 years,KN.M2,"Total, Estimate",Number,units,Number,,,,104859,105558,106137,107112,108302,109442,112373
+0500000US53067,Thurston County,US_WA067,S1701_C01_009,60 years and over,AGE!!60 years and over,KN.M2,"Total, Estimate",Number,units,Number,,,,55531,57585,59160,61828,64750,67503,69221
+0500000US53067,Thurston County,US_WA067,S1701_C01_010,65 years and over,AGE!!65 years and over,KN.M2,"Total, Estimate",Number,units,Number,32550,34011,35661,37522,39753,41515,43886,46206,48427,49671
+0500000US53069,Wahkiakum County,US_WA069,S1701_C01_002,Under 18 years,AGE!!Under 18 years,KN.M2,"Total, Estimate",Number,units,Number,754,704,627,607,642,670,692,696,748,735
+0500000US53069,Wahkiakum County,US_WA069,S1701_C01_003,Under 5 years,AGE!!Under 18 years!!Under 5 years,KN.M2,"Total, Estimate",Number,units,Number,,,,97,139,158,138,164,165,156
+0500000US53069,Wahkiakum County,US_WA069,S1701_C01_004,5 to 17 years,AGE!!Under 18 years!!5 to 17 years,KN.M2,"Total, Estimate",Number,units,Number,,,,510,503,512,554,532,583,579
+0500000US53069,Wahkiakum County,US_WA069,S1701_C01_005,Related children of householder under 18 years,AGE!!Under 18 years!!Related children of householder under 18 years,KN.M2,"Total, Estimate",Number,units,Number,754,694,617,598,627,657,692,696,748,735
+0500000US53069,Wahkiakum County,US_WA069,S1701_C01_006,18 to 64 years,AGE!!18 to 64 years,KN.M2,"Total, Estimate",Number,units,Number,2205,2166,2172,2197,2103,2080,2077,2143,2146,2201
+0500000US53069,Wahkiakum County,US_WA069,S1701_C01_007,18 to 34 years,AGE!!18 to 64 years!!18 to 34 years,KN.M2,"Total, Estimate",Number,units,Number,,,,646,561,550,478,505,488,562
+0500000US53069,Wahkiakum County,US_WA069,S1701_C01_008,35 to 64 years,AGE!!18 to 64 years!!35 to 64 years,KN.M2,"Total, Estimate",Number,units,Number,,,,1551,1542,1530,1599,1638,1658,1639
+0500000US53069,Wahkiakum County,US_WA069,S1701_C01_009,60 years and over,AGE!!60 years and over,KN.M2,"Total, Estimate",Number,units,Number,,,,1470,1604,1670,1770,1839,1934,1975
+0500000US53069,Wahkiakum County,US_WA069,S1701_C01_010,65 years and over,AGE!!65 years and over,KN.M2,"Total, Estimate",Number,units,Number,933,1007,1102,1142,1236,1278,1365,1381,1379,1396
+,,,,,,,,,,,,,,,,,,,,
+Source:,U.S. Census Bureau,,,,,,,,,,,,,,,,,,,
+Download URL:,https://public.knoema.com/bgbeymf/income-and-poverty-estimates-for-u-s-states-and-counties,,,,,,,,,,,,,,,,,,,
