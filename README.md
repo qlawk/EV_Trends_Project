@@ -7,6 +7,8 @@ We examined the current landscape of electric vehicles in Washington state, proj
 3) Relations between areas of EV and charging stations
 
 # Process
+![image](https://github.com/seansjj/ev_trends_wa/assets/141446128/8f43f38b-6da7-45b8-a786-ede0d4fa1f4b)
+
 1) Identified and sourced an API or dataset that aligned with our research theme.
 2) Devised central questions to narrow our research scope and enhance our analytical focus.
 3) Undertook a preliminary data examination, involving cleaning and exploratory data analysis (EDA) in line with our research questions.
@@ -15,8 +17,15 @@ We examined the current landscape of electric vehicles in Washington state, proj
 6) Visualized our findings through a range of mediums, including geographic maps and graphical representations.
 
 # Results
+![image](https://github.com/seansjj/ev_trends_wa/assets/141446128/ecb2002a-bdaf-4870-992b-46bdd6274b53)
 - Model suggests that income, sex, age doesn't impact total EV ownership, only population
+
+![image](https://github.com/seansjj/ev_trends_wa/assets/141446128/2e1c4569-7197-4364-b103-d7ee3212d6f8)
 - We recommend installing a supercharger suitable for Telsa, the most popular EV model.
+
+![image](https://github.com/seansjj/ev_trends_wa/assets/141446128/517ee459-4805-4a42-9499-f16392f4ee4d)
+![image](https://github.com/seansjj/ev_trends_wa/assets/141446128/9ff207c2-e0e2-4375-a26f-bbbd0706b2f5)
+
 - It is recommended to focus installation in Sammamish City, where there is currently low demand for electric vehicle chargers (1.7 chargers/1,000 EVs).
 
 # Challenges
